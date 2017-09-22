@@ -1,6 +1,6 @@
 {
   "name": "iso8583-smartvista",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "Jafar Shadiq <reekoheek@gmail.com> (http://xinix.co.id), Igor Askarov juks@juks.ru",
   "description": "An improved version of node.js JavaScript implementation of ISO 8583 parser based on http://github.com/reekoheek/node-iso8583",
   "homepage": "https://github.com/juks/node-iso8583",
